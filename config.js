@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://blog.xhuman.tk/'
     },
     {
       text: 'GitHub',
